@@ -1,0 +1,14 @@
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\bin\Debug\net7.0\BachMonster.exe
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\bin\Debug\net7.0\BachMonster.deps.json
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\bin\Debug\net7.0\BachMonster.runtimeconfig.json
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\bin\Debug\net7.0\BachMonster.dll
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\bin\Debug\net7.0\BachMonster.pdb
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.AssemblyInfoInputs.cache
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.AssemblyInfo.cs
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.csproj.CoreCompileInputs.cache
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.dll
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\refint\BachMonster.dll
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.pdb
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\BachMonster.genruntimeconfig.cache
+C:\Users\david.ojebrinkolsso\Desktop\prog 2\BachMonster\obj\Debug\net7.0\ref\BachMonster.dll

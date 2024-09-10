@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Monster carti = new();
+Hero ecco = new ();
+
+
+
+Console.WriteLine($"{carti.name} has {carti.Hp}Hp");
+Console.WriteLine($"{ecco.name} has {ecco.Hp}Hp");
+
+
+Console.WriteLine("Attack!");
+
+Monster.hp -= 10;
+
+Console.ReadLine();
